@@ -1,6 +1,13 @@
+using Api.NovaPasta;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+var configuration = builder.Configuration.GetConnectionString("Default");
+
+builder.Services.AddDbContext<ApiContext>(options =>
+    options.UseNpgsql(configuration));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -14,7 +14,7 @@ namespace TrabalhoSGBD.Controllers
             _context = context;
         }
 
-        [HttpGet("obter_todos_animes_com_filmes")]
+        [HttpGet("ObterTodosOsAnimesComoFilmes")]
         public async Task<ActionResult<IEnumerable<AnimesFilmes>>> ObterTodosAnimes()
         {
             try
