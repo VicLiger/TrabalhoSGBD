@@ -1,9 +1,7 @@
 ﻿using Api.Models;
+using Api.NovaPasta;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System;
-using TrabalhoSGBD.Context;
-using TrabalhoSGBD.Models;
 
 namespace TrabalhoSGBD.Controllers
 {
