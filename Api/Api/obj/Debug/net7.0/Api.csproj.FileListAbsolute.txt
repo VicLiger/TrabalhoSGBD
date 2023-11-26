@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\TrabalhoSGBD\Api\Api\obj\Debug\net7.0\Api.MvcApplicationPartsAssemblyInfo.cache
